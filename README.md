@@ -13,7 +13,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="max-width: 100%; margin:0 2px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" style="max-width: 100%; margin:0 2px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" style="max-width: 100%; margin:0 2px;"/>
-   <i class="devicon-sqlite-plain-wordmark colored" width="40" height="40" style="max-width: 100%; margin: 0 2px;"></i>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40" style="max-width: 100%; margin:0 2px;">
+          
           
           
 </div>
