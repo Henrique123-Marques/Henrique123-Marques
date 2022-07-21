@@ -1,11 +1,11 @@
 ### Hi, I'am Henrique Marques ✋
-<div style="display-block">
-   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmss7/)
 
-   ![Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique123-Marques&show_icons=true&theme=dracula)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmss7/)
 
-   ![Marques wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique123-Marques&theme=dracula)
-</div>
+![Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique123-Marques&show_icons=true&theme=dracula)
+
+![Marques wakatime stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique123-Marques&theme=dracula)
+
 
 ### What technologies do I use:
 <div style = "display_block"><br/>
