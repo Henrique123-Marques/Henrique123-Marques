@@ -10,6 +10,10 @@ I am a developer passionate about astronomy, data science, physics, and technolo
 - 🚀 Space exploration
 - 🔭 Physics
 
+<div>
+   <img src="https://th.bing.com/th/id/OIG.S_FCcRicsUrWFz0tfbTA?pid=ImgGn"></img>
+</div>
+
 ### What technologies do I use:
 <div style = "display_block"><br/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="max-width: 100%; margin:0 2px; align: center"/>
