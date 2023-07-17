@@ -1,7 +1,7 @@
 # Hi, I'm Henrique Marques Santos Silva 👋
 
 ## About me
-I am a developer passionate about astronomy, data science, physics, and technology. I love exploring new technologies and working on challenging projects.
+I am a developer passionate about astronomy, data science, physics, and technology. I love exploring new technologies and working on challenging projects. Currently, I am pursuing a degree in Science and Technology at UFABC and have technical training in computer science from a technical school.
 
 ## My interests
 - 🪐 Astronomy
@@ -10,7 +10,15 @@ I am a developer passionate about astronomy, data science, physics, and technolo
 - 🚀 Space exploration
 - 🔭 Physics
 
-<!--<div>
+<!--## My projects
+Here are some of my astronomy-related projects:
+- Project name 1
+- Project name 2
+
+## Get in touch
+Feel free to contact me through LinkedIn or Twitter.
+
+<div>
    <img src="https://th.bing.com/th/id/OIG.aA9DzmhwX3FY1lLy2Z.V?pid=ImgGn" widht="100" height="100" style="max-width: 100%"></img>
 </div>-->
 
