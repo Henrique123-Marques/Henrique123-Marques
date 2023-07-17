@@ -11,7 +11,7 @@ I am a developer passionate about astronomy, data science, physics, and technolo
 - 🔭 Physics
 
 <div>
-   <img src="https://th.bing.com/th/id/OIG.S_FCcRicsUrWFz0tfbTA?pid=ImgGn"></img>
+   <img src="https://th.bing.com/th/id/OIG.S_FCcRicsUrWFz0tfbTA?pid=ImgGn" widht="100" height=auto style="max-width: 100%"></img>
 </div>
 
 ### What technologies do I use:
