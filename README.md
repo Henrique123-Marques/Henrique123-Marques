@@ -34,7 +34,7 @@ Feel free to contact me through LinkedIn or Twitter.
 
 ### My Social Medias:
 <div style=“display: flex; align-items: center;”> 
-   <img src=“https://i.imgur.com/1a2b3c.png” alt=“LinkedIn” width=“40” height=“40” style=“max-width: 100%; margin-right: 10px;”>       
+   <i class="fa fa-linkedin-square" style="font-size:48px;color:red"></i>      
    <img src=“https://i.imgur.com/4d5e6f.png” alt=“Pinterest” width=“40” height=“40” style=“max-width: 100%; margin-right: 10px;”>      
    <img src=“https://i.imgur.com/7g8h9i.png” alt=“Discord” width=“40” height=“40” style=“max-width: 100%; margin-right: 10px;”> 
 </div>
