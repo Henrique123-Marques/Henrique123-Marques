@@ -21,6 +21,9 @@ Feel free to contact me through LinkedIn or Twitter.
 <div>
    <img src="https://th.bing.com/th/id/OIG.aA9DzmhwX3FY1lLy2Z.V?pid=ImgGn" widht="100" height="100" style="max-width: 100%"></img>
 </div>-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 
 ### What technologies do I use:
 <div style = "display_block"><br/>
