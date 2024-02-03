@@ -32,3 +32,10 @@ Feel free to contact me through LinkedIn or Twitter.
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" style="max-width: 100%; margin:0 2px;"/>
 </div>
 
+###My Social Medias
+<div style = "display_block"><br/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/discord-original.svg" width="40" height="40" style="max-width: 100%; margin:0 2px; align: center"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/pinterest-original.svg" width="40" height="40" style="max-width: 100%; margin:0 2px;"/>
+</div>
+   
+
