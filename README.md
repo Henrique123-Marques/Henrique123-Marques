@@ -33,8 +33,8 @@ Feel free to contact me through LinkedIn or Twitter.
 </div>
 
 ### My Social Medias:
-<div style=“display_block><br/> 
-   <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg” width=“40” height=“40” style=“max-width: 100%; margin-right: 10px;”> 
-   <img src=“https://i.imgur.com/4d5e6f.png” width=“40” height=“40” style=“max-width: 100%; margin-right: 10px;”> 
-   <img src=“https://i.imgur.com/7g8h9i.png” width=“40” height=“40” style=“max-width: 100%; margin-right: 10px;”> 
+<div style = "display_block"><br/> 
+   <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg” width=“40” height=“40” style=“max-width: 100%; margin-right: 10px;"> 
+   <img src= "https://i.imgur.com/4d5e6f.png” width=“40” height=“40” style=“max-width: 100%; margin-right: 10px;"> 
+   <img src=" https://i.imgur.com/7g8h9i.png” width=“40” height=“40” style=“max-width: 100%; margin-right: 10px;"> 
 </div>
