@@ -21,9 +21,6 @@ Feel free to contact me through LinkedIn or Twitter.
 <div>
    <img src="https://th.bing.com/th/id/OIG.aA9DzmhwX3FY1lLy2Z.V?pid=ImgGn" widht="100" height="100" style="max-width: 100%"></img>
 </div>-->
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
 
 ### What technologies do I use:
 <div style = "display_block"><br/>
@@ -37,9 +34,7 @@ Feel free to contact me through LinkedIn or Twitter.
 
 ### My Social Medias:
 <div style=“display: flex; align-items: center;”> 
-   <i class="fa fa-linkedin-square" style="font-size:48px;color:red"></i>      
-   <img src=“https://i.imgur.com/4d5e6f.png” alt=“Pinterest” width=“40” height=“40” style=“max-width: 100%; margin-right: 10px;”>      
-   <img src=“https://i.imgur.com/7g8h9i.png” alt=“Discord” width=“40” height=“40” style=“max-width: 100%; margin-right: 10px;”> 
+   <img src=“https://i.imgur.com/1a2b3c.png” width=“40” height=“40” style=“max-width: 100%; margin-right: 10px;”> 
+   <img src=“https://i.imgur.com/4d5e6f.png” width=“40” height=“40” style=“max-width: 100%; margin-right: 10px;”> 
+   <img src=“https://i.imgur.com/7g8h9i.png” width=“40” height=“40” style=“max-width: 100%; margin-right: 10px;”> 
 </div>
-
-
