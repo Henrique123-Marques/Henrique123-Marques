@@ -34,9 +34,9 @@ Feel free to contact me through LinkedIn or Twitter.
 
 ### Connect with me: 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hmss7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hmss7/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@henriquemarquessantossilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@henriquemarquessantossilva" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/users/761332511061835807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/761332511061835807" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hmss7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hmss7/" height="30" width="40" /></a>
+<a href="https://medium.com/@henriquemarquessantossilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@henriquemarquessantossilva" height="30" width="40" /></a>
+<a href="https://discord.com/users/761332511061835807" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/761332511061835807" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
