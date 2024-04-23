@@ -1,6 +1,6 @@
 # Hi, I'm Henrique Marques Santos Silva 👋
 
-![github_readme_wallapaper](https://github.com/Henrique123-Marques/Henrique123-Marques/assets/85771186/feacdbe0-2444-47f7-b1a5-da68256dfbc2)
+<!--![github_readme_wallapaper](https://github.com/Henrique123-Marques/Henrique123-Marques/assets/85771186/feacdbe0-2444-47f7-b1a5-da68256dfbc2)-->
 
 ## About me
 I am a developer passionate about astronomy, data science, physics, and technology. I love exploring new technologies and working on challenging projects. Currently, I am pursuing a degree in Science and Technology at UFABC and have technical training in computer science from a technical school.
