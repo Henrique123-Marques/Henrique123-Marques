@@ -3,14 +3,15 @@
 <!--![github_readme_wallapaper](https://github.com/Henrique123-Marques/Henrique123-Marques/assets/85771186/feacdbe0-2444-47f7-b1a5-da68256dfbc2)-->
 
 ## About me
-I am a developer passionate about astronomy, data science, physics, and technology. I love exploring new technologies and working on challenging projects. Currently, I am pursuing a degree in Science and Technology at UFABC and have technical training in computer science from a technical school.
+I am a developer/learner passionate about amateur astronomy, data science and technology. I love exploring new technologies and working on challenging projects. Currently, I am pursuing a degree in Science and Technology at UFABC and have technical training in computer science from a technical school.
 
 ## My interests
 - 🪐 Astronomy
+- 🔭 Physics
 - 💻 Software development
 - 📊 Data science
 - 🚀 Space exploration
-- 🔭 Physics
+
 
 <!--## My projects
 Here are some of my astronomy-related projects:
@@ -44,7 +45,7 @@ Feel free to contact me through LinkedIn or Twitter.
 ### Languages and Tools:
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+<!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>--> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
