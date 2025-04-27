@@ -75,7 +75,7 @@ Stay tuned for my upcoming projects blending **astronomy**, **data science**, an
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Henrique123-Marques&style=flat-square&color=purple" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Henrique123-Marques&style=flat-square&color=blue" alt="Profile Views" />
   <br/>
   <p><i>"The universe is not only stranger than we imagine, it is stranger than we can imagine." – J.B.S. Haldane</i></p>
 </div>
