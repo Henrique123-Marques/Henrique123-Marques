@@ -61,9 +61,9 @@ I'm a developer and lifelong learner with a deep passion for **amateur astronomy
   <a href="https://medium.com/@henriquemarquessantossilva" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="35" width="45"/>
   </a>
-  <a href="https://discord.com/users/761332511061835807" target="_blank">
+  <!--<a href="https://discord.com/users/761332511061835807" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="45"/>
-  </a>
+  </a>-->
 </p>
 
 ---
