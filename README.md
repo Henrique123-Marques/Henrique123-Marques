@@ -1,24 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=3500&color=00BFFF&center=true&vCenter=true&width=650&lines=Hey,+I'm+Henrique+Marques+Santos+Silva!;A+Developer+Stargazing+Through+Code+and+Cosmos;Passionate+About+Astronomy+and+Data+Science" alt="Typing SVG" />
+  <h1>Henrique Marques Santos Silva</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=28&duration=4000&color=00BFFF¢er=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub+Profile;Developer+Exploring+Code+and+Cosmos;Focused+on+Astronomy+and+Data+Science" alt="Typing SVG" />
   <br/>
-  <img src="https://img.shields.io/badge/Coding%20the%20Universe-🌌-1E90FF?style=flat-square&logo=python" alt="Custom Badge"/>
-  <img src="https://img.shields.io/badge/Exploring%20Data-📊-FF4500?style=flat-square&logo=jupyter" alt="Custom Badge"/>
+  <img src="https://img.shields.io/badge/Coding%20the%20Universe-🌌-1E90FF?style=flat-square&logo=python" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Analyzing%20Data-📊-FF4500?style=flat-square&logo=jupyter" alt="Jupyter Badge"/>
 </div>
 
 ---
 
 ## 🌌 About Me
 
-I'm a developer and lifelong learner with a deep passion for **amateur astronomy**, **data science**, and **cutting-edge technology**. By day, I code and analyze data; by night, I gaze at the stars, dreaming of the mysteries of the universe. I'm currently pursuing a degree in **Science and Technology** at **UFABC** and hold a technical certification in **Computer Science** from a vocational school.
+I am a developer and student specializing in **amateur astronomy**, **data science**, and **software development**. Currently pursuing a degree in **Science and Technology** at **UFABC**, with a technical certification in **Computer Science**. My work focuses on integrating technology with cosmic exploration.
 
-- 🔭 Fueled by curiosity about the cosmos
-- 💻 Crafting innovative software solutions
-- 📊 Turning raw data into meaningful insights
-- 🚀 Inspired by the future of space exploration
+- 🔭 Studying celestial phenomena
+- 💻 Developing efficient software
+- 📊 Deriving insights from data
+- 🚀 Tracking space exploration advancements
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
@@ -33,26 +34,26 @@ I'm a developer and lifelong learner with a deep passion for **amateur astronomy
 
 ---
 
-## 🌠 What Drives Me
+## 🌠 Interests
 
-- 🪐 **Amateur Astronomy**: Studying Astronomy and Cosmology to learn about our universe
-- 🔭 **Physics**: Unraveling the fundamental laws of the universe
-- 💻 **Software Development**: Building tools that solve real-world problems
-- 📊 **Data Science**: Discovering patterns and stories hidden in data
-- 🚀 **Space Exploration**: Envisioning humanity’s next steps among the stars
+- 🪐 **Astronomy**: Investigating cosmic structures
+- 🔭 **Physics**: Analyzing universal laws
+- 💻 **Software Development**: Building practical tools
+- 📊 **Data Science**: Extracting data patterns
+- 🚀 **Space Exploration**: Supporting interstellar progress
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique123-Marques&show_icons=true&theme=aura&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique123-Marques&layout=compact&theme=aura&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Henrique123-Marques&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00BFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique123-Marques&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00BFFF" alt="Top Languages" />
 </div>
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hmss7/" target="_blank">
@@ -61,21 +62,26 @@ I'm a developer and lifelong learner with a deep passion for **amateur astronomy
   <a href="https://medium.com/@henriquemarquessantossilva" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="35" width="45"/>
   </a>
-  <!--<a href="https://discord.com/users/761332511061835807" target="_blank">
+  <a href="https://discord.com/users/761332511061835807" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" width="45"/>
-  </a>-->
+  </a>
+  <a href="https://www.pinterest.com/henriquemarquessantossilva/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" height="35" width="45"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-Stay tuned for my upcoming projects blending **astronomy**, **data science**, and **software development**! From starry visualizations to data-driven insights, I’m working on something out-of-this-world. 🌟
+Developing tools and visualizations at the intersection of **astronomy**, **data science**, and **software development**. Upcoming projects include celestial data analysis and interactive dashboards.
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Henrique123-Marques&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Exploring%20the%20Cosmos-🌠-00BFFF?style=flat-square" alt="Cosmos Badge"/>
   <br/>
-  <p><i>"The universe is not only stranger than we imagine, it is stranger than we can imagine." – J.B.S. Haldane</i></p>
+  <img src="https://komarev.com/ghpvc/?username=Henrique123-Marques&style=flat-square&color=00BFFF" alt="Profile Views" />
+  <br/>
+  <p>"The universe is a pretty big place. If it's just us, seems like an awful waste of space." – Carl Sagan</p>
 </div>
