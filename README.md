@@ -10,7 +10,7 @@
 
 ## 🌌 About Me
 
-I am a developer and student specializing in **amateur astronomy**, **data science**, and **software development**. Currently pursuing a degree in **Science and Technology** at **UFABC**, with a technical certification in **Computer Science**. My work focuses on integrating technology with cosmic exploration.
+I am a developer and student specializing in **amateur astronomy**, **data science**, and **web development**. Currently pursuing a degree in **Science and Technology** at **UFABC**, with a technical certification in **Internet Informatic**. My work focuses on integrating technology with astronomical exploration with books and softwares.
 
 - 🔭 Studying celestial phenomena
 - 💻 Developing efficient software
@@ -38,7 +38,7 @@ I am a developer and student specializing in **amateur astronomy**, **data scien
 
 - 🪐 **Astronomy**: Investigating cosmic structures
 - 🔭 **Physics**: Analyzing universal laws
-- 💻 **Software Development**: Building practical tools
+- 💻 **Web Development**: Building practical tools
 - 📊 **Data Science**: Extracting data patterns
 - 🚀 **Space Exploration**: Supporting interstellar progress
 
