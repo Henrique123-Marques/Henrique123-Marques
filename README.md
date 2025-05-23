@@ -53,7 +53,7 @@ I am a developer and student specializing in **amateur astronomy**, **data scien
 
 ---
 
-## 🌍 Connect
+<!--## 🌍 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hmss7/" target="_blank">
@@ -68,7 +68,7 @@ I am a developer and student specializing in **amateur astronomy**, **data scien
   <a href="https://www.pinterest.com/henriquemarquessantossilva/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" height="35" width="45"/>
   </a>
-</p>
+</p>-->
 
 ---
 
