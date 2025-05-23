@@ -51,9 +51,9 @@ I am a developer and student specializing in **amateur astronomy**, **data scien
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique123-Marques&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00BFFF" alt="Top Languages" />
 </div>
 
----
+<!-----
 
-<!--## 🌍 Connect
+## 🌍 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hmss7/" target="_blank">
