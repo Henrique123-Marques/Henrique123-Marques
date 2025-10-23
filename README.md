@@ -10,12 +10,11 @@
 
 ## 🌌 About Me
 
-I am a developer and student specializing in **amateur astronomy**, **data science**, and **web development**. Currently pursuing a degree in **Science and Technology** at **UFABC**, with a technical certification in **Internet Informatic**. My work focuses on integrating technology with astronomical exploration with books and softwares.
+I am a programmer and university student specializing in **amateur astronomy**, **data science**, and **web development**. Currently pursuing a interdisciplinary degree in **Science and Technology** at **UFABC**in Federal Republic of Brazil, with a technical certification in **Internet Informatic**. My work focuses on learn technology (Python (and more tools), Data Sciense, Astronomy) with books, softwares and projects.
 
-- 🔭 Studying celestial phenomena
-- 💻 Developing efficient software
-- 📊 Deriving insights from data
-- 🚀 Tracking space exploration advancements
+- 🔭 Studying astronomy (hobby);
+- 💻 Developing efficient software/codes;
+- 📊 Learning Data Sciense;
 
 ---
 
