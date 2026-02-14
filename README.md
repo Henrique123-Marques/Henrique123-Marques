@@ -46,8 +46,8 @@ I am a programmer and university student specializing in **amateur astronomy**, 
 ## 📈 Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henrique123-Marques&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00BFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique123-Marques&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00BFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Henrique123-Marques&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00BFFF" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique123-Marques&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00BFFF" alt="Top Languages"/>
 </div>
 
 <!-----
