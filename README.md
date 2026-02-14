@@ -43,6 +43,7 @@ I am a programmer and university student specializing in **amateur astronomy**, 
 
 ---
 
+<!-----
 ## 📈 Statistics
 
 <div align="center">
@@ -50,7 +51,7 @@ I am a programmer and university student specializing in **amateur astronomy**, 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique123-Marques&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=00BFFF" alt="Top Languages"/>
 </div>
 
-<!-----
+
 
 ## 🌍 Connect
 
