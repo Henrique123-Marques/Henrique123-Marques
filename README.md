@@ -1,6 +1,6 @@
 <div align="center"> 
   <h1>Henrique Marques Santos Silva</h1> 
-  <img src="https://herokuapp.com" alt="Typing SVG" /> 
+  <!--<img src="https://herokuapp.com" alt="Typing SVG" /> -->
   <br/> 
   <img src="https://img.shields.io/badge/Coding%20the%20Universe-🌌-1E90FF?style=flat-square&logo=python" alt="Python Badge"/> 
   <img src="https://img.shields.io/badge/Analyzing%20Data-📊-FF4500?style=flat-square&logo=jupyter" alt="Jupyter Badge"/> 
