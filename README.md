@@ -20,6 +20,7 @@ I am a programmer and university student specializing in **amateur astronomy**, 
 
 ## 🛠️ Technologies
 
+<div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" title="HTML5"/>
@@ -30,7 +31,7 @@ I am a programmer and university student specializing in **amateur astronomy**, 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" title="Git"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" title="Figma"/>
 </p>
-
+<\div>
 ---
 
 ## 🌠 Interests
