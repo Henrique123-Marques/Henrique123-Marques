@@ -70,8 +70,8 @@ henrique.say_hi()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Astropy](https://img.shields.io/badge/Astropy-orange?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![StreamLit](https://img.shields.io/badge/SublimeText-orange?style=flat-square)
+![SublimeText3](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 <br/>
 
@@ -102,12 +102,12 @@ Brief description of the project, technologies used, and main features.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Henrique123-Marques&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Henrique123-Marques&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henrique123-Marques&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique123-Marques&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%"/>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique123-Marques&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%"/>-->
 
 </div>
 
