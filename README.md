@@ -41,11 +41,11 @@ henrique.say_hi()
 
 ## 🔭 Current Focus
 
-- 🪐 Studying observational astronomy and astrophysics as an in-depth hobby
+- 🪐 Studying observational astronomy and astrophysics as an in-depth amateur hobby
 - 📊 Learning Data Science: analysis, visualization, and modeling
 - 💻 Building software projects with a focus on best practices
 - 🌱 Exploring relational databases (PostgreSQL, SQLite)
-- 🎯 Goal: combine astronomy and data in astronomical data analysis projects
+- 🎯 Goal: Data Science projects to improve and and learn
 
 <br/>
 
@@ -80,16 +80,14 @@ henrique.say_hi()
 | Area | Description |
 |---|---|
 | 🪐 **Astronomy** | Investigating cosmic structures through amateur observation |
-| 🔭 **Physics** | Studying universal laws and physical phenomena |
 | 💻 **Web Development** | Building practical, functional tools |
 | 📊 **Data Science** | Extracting patterns and insights from data |
-| 🚀 **Space Exploration** | Following missions and interstellar progress |
 
 <br/>
 
 ## 🚀 Featured Projects
 
-> 🔧 In progress — interactive dashboards and astronomical data analyses will be published here soon.
+> 🔧 In progress — interactive dashboards and data projects will be published here soon.
 
 <!--
 ### [Project Name](link)
